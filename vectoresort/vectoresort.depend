@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610114647 source:e:\vectoresort\main.cpp
+	<bits/stdc++.h>
+	<vector>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1607787751 source:e:\sparse\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1607788211 source:e:\sparse\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

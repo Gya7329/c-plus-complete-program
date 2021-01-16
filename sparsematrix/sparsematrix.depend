@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607788505 source:e:\sparsematrix\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:e:\function\main.cpp
+	<iostream>
+
+1605537991 source:e:\function\add.cpp
+	<iostream>
+
+1605538056 source:e:\function\max.cpp
+	<iostream>
+

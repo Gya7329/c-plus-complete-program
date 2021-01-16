@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609080923 source:e:\ds linked list\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
